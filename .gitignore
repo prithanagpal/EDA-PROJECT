@@ -1,29 +1,10 @@
-# Virtual Environment
-.venv/
 venv/
-ENV/
-env/
-
-# Python Cache & Bytecode
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# OS files
+.env
 .DS_Store
-Thumbs.db
-
-# IDE configurations
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
+node_modules/
+dist/
+build/
