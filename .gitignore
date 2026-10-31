@@ -22,3 +22,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
